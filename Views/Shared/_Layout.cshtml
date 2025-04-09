@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TrailPacker</title>
+    <link rel="icon" href="/lib/logo.ico" type="image/x-icon">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/css/site.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+</head>
+<body>
+    <div class="container body-content">
+        <div id="web">
+            <div class="flex flex-col min-h-screen bg-main">
+                <header class="header">
+                    <nav class="nav">
+                        <div class="nav-logo">
+                            <a asp-area ="" asp-controller="Home" asp-action="Index" class="logo-link">
+                                <img src="/Images/logo.png" alt="Logo" class="logo" " />
+                            </a>
+                        </div>
+                        <ul class="nav-menu">
+                            <li class="nav-item"><a href="@Url.Action("Index", "Home")#gallery" class="nav-link">Главная</a></li>
+                            <li class="nav-item"><a href="@Url.Action("Index", "Home")#calculator" class="nav-link">Калькулятор</a></li>
+                            <li class="nav-item"><a href="@Url.Action("Index", "Home")#recipes" class="nav-link">Рецепты</a></li>
+                            <li class="nav-item"><a href="@Url.Action("")#footer" class="nav-link">Контакты</a></li>
+                        </ul>
+                    </nav>
+                </header>
+
+                <main class="flex-grow">
+                    @RenderBody()
+                </main>
+
+                <footer id="footer" class="footer">
+                    <hr />
+                    <br />
+                    <div class="footer-container">
+                        <div class="footer-text">© 2025</div>
+                        <div class="footer-icons">
+                            <a href="https://t.me/pluviophileAN"><img src="/Images/telegram.png" alt="Telegram" /></a>
+                            <a href="https://vk.ru/leeestasy"><img src="/Images/VK.png" alt="VK" /></a>
+                        </div>
+                        <div class="footer-note">
+                            Разработан в качестве дипломной работы
+                            <p> Обратная связь с разработчиком:</p>
+                            <p><a href="mailto:trailAsya@yandex.ru" class="hover:underline"><b>trailAsya@yandex.ru</b></a></p>
+                        </div>
+                    </div>
+                    <br />
+                    <hr />
+                </footer>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

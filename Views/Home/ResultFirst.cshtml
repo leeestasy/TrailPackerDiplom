@@ -1,0 +1,54 @@
+﻿@using WebTrail.Models
+@inject IFoodCalculationService CalculationService
+@model Dictionary<string, object>
+
+@{
+    ViewData["Title"] = "Result First";
+    var results = (FoodCalculationResults)ViewBag.Results;
+}
+
+<title>Результаты расчета продуктов</title>
+<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet">
+<link rel="stylesheet" href="~/css/styleResultF.css">
+
+<div class="content">
+    <table>
+        <thead>
+            <tr>
+                <th>Список продуктов</th>
+                <th>Кол-во банок/упаковок</th>
+                <th>Вес</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (results != null && results.Products != null)
+            {
+                foreach (var product in results.Products)
+                {
+                    <tr>
+                        <td>@product.Name</td>
+                        <td>@product.Quantity</td>
+                        <td>@product.Weight.ToString("F2") кг</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="3">Нет данных для отображения.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="weightAll">
+        <a asp-action="DownloadPdf" asp-controller="Home" class="btnDownload">
+            <span class="material-symbols-outlined">download</span> Скачать
+        </a>
+        <div class="total">
+            Общий вес продуктов:
+            <b>@(results != null ? results.TotalWeight.ToString("F2") : "0.00") кг</b>
+        </div>
+    </div>
+</div>

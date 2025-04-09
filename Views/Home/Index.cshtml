@@ -1,0 +1,90 @@
+﻿@model WebTrail.Models.HikeViewModel
+
+@{
+    ViewData["Title"] = "TrailPacker";
+}
+
+<div class="text-center">
+    <section id="gallery" class="gallery">
+        <div class="gallery-container">
+            <div class="gallery-item">
+                <img src="/Images/photo2.png" alt="Camping" class="gallery-img" />
+            </div>
+            <div class="gallery-item">
+                <img src="/Images/photo1.png" alt="Fishing" class="gallery-img" />
+            </div>
+            <div class="gallery-item">
+                <img src="/Images/photo3.png" alt="Campfire" class="gallery-img" />
+            </div>
+        </div>
+        <div class="gallery-text">
+            <p>В данном веб-приложении вы сможете создать собственную раскладку для туристического похода с учетом количества человек и пищевых особенностей.</p>
+        </div>
+        <br />
+        <div class="quote">
+            <hr />
+            <br />
+            <p>«Природа — это одна из тех вещей, которые вы можете делать, только когда у вас есть компания»</p>
+            <p class="quote-author">Карл Саган</p>
+        </div>
+    </section>
+
+    <section id="calculator" class="calculator">
+        <div class="calculator-container">
+            <h1 class="title-calculator"><b>Расчет количества продуктов в поход</b></h1>
+            <form asp-action="Index" method="post">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <input type="hidden" asp-for="Hike.Hike_ID" />
+
+                <div class="form-group">
+                    <label asp-for="Hike.Num_Days">Количество дней похода</label>
+                    <input type="number" asp-for="Hike.Num_Days" class="form-control" placeholder="3" />
+                    <span asp-validation-for="Hike.Num_Days" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Hike.Num_People">Количество человек в группе</label>
+                    <input type="number" asp-for="Hike.Num_People" class="form-control" />
+                    <span asp-validation-for="Hike.Num_People" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Hike.TourTypeID">Вид похода</label>
+
+                    @if (ViewBag.TripTypes != null)
+                    {
+                        @Html.DropDownListFor(model => model.Hike.TourTypeID, (SelectList)ViewBag.TripTypes, "Выберите тип похода", new { @class = "form-control" })
+                    }
+                    else
+                    {
+                        <p>Нет доступных типов походов.</p>
+                    }
+
+                    <span asp-validation-for="Hike.TourTypeID" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Hike.Dietary_Restrictions">Пищевые особенности (аллергии)</label>
+                    <input type="text" asp-for="Hike.Dietary_Restrictions" class="form-control" />
+                    <span asp-validation-for="Hike.Dietary_Restrictions" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn">Рассчитать продукты</button>
+                @Html.AntiForgeryToken()
+            </form>
+        </div>
+    </section>
+
+    <section id="recipes" class="recipes">
+        <h1><b>Рецепты</b></h1>
+        <br />
+        <div class="recipe-grid">
+            @foreach (var recipe in Model.Recipes.Take(6))
+            {
+                <div class="recipe-card" style="color: black;" onclick="window.location.href='@Url.Action("RecipeView", "Home", new { id = recipe.Recipe_ID })'">
+                    @recipe.Recipe_Name
+                </div>
+            }
+        </div>
+        <br />
+        <button class="btnMirror" onclick="window.location.href='@Url.Action("Recipes", "Home")'">
+            Показать ещё
+        </button>
+    </section>
+</div>

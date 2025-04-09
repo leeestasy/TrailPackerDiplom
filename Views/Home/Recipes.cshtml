@@ -1,0 +1,23 @@
+﻿@model HikeViewModel
+@{
+    ViewData["Title"] = "Recipes";
+}
+
+<section id="recipes" class="recipes">
+    <h1><b>Рецепты</b></h1>
+    <br />
+
+    <form method="get" asp-action="Recipes" class="form-group">
+        <input type="text" name="searchTerm" placeholder="Введите название рецепта" class="orm-group" />
+        <button type="submit" class="btn search-button">Поиск</button>
+    </form>
+    <br />
+    <div class="recipe-grid">
+        @foreach (var recipe in Model.Recipes)
+        {
+            <div class="recipe-card" style="color: black;" onclick="window.location.href='@Url.Action("RecipeView", "Home", new { id = recipe.Recipe_ID })'">
+                @recipe.Recipe_Name
+            </div>
+        }
+    </div>
+</section>

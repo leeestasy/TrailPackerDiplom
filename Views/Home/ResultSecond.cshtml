@@ -1,0 +1,94 @@
+﻿@model Hike_Recipe_Suggestion
+@{
+    ViewData["Title"] = "Result Second";
+}
+    <title>Результаты расчета продуктов</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/styleResultS.css">
+
+    <div id="resultSecond">
+        <div class="containerResult">
+                    <div class="headerResult">
+            <button class="btnBack" onclick="window.location.href='@Url.Action("ResultFirst", "Home")'">Назад</button>
+                        <h1>Результаты расчета продуктов</h1>
+                    </div>
+                <div class="results">
+                    <div class="day-results">
+                        <div class="day">
+                            <h3 class="day-title">День 1</h3>
+                            <div class="meals">
+                                <div class="meal">
+                                    <h4 class="meal-title">Завтрак</h4>
+                                </div>
+                                <div class="meal">
+                                    <h4 class="meal-title">Обед</h4>
+                                </div>
+                                <div class="meal">
+                                    <h4 class="meal-title">Ужин</h4>
+                                </div>
+                                <div class="meal">
+                                    <h4 class="meal-title">Перекусы</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="day">
+                            <h3 class="day-title">День 2</h3>
+                            <div class="meals">
+                                <div class="meal">
+                                    <h4 class="meal-title">Завтрак</h4>
+                                </div>
+                                <div class="meal">
+                                    <h4 class="meal-title">Обед</h4>
+                                </div>
+                                <div class="meal">
+                                    <h4 class="meal-title">Ужин</h4>
+                                </div>
+                                <div class="meal">
+                                    <h4 class="meal-title">Перекусы</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="day">
+                            <h3 class="day-title">День 3</h3>
+                            <div class="meals">
+                                <div class="meal">
+                                    <h4 class="meal-title">Завтрак</h4>
+                                </div>
+                                <div class="meal">
+                                    <h4 class="meal-title">Обед</h4>
+                                </div>
+                                <div class="meal">
+                                    <h4 class="meal-title">Ужин</h4>
+                                </div>
+                                <div class="meal">
+                                    <h4 class="meal-title">Перекусы</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="day">
+                            <h3 class="day-title">День 4</h3>
+                            <div class="meals">
+                                <div class="meal">
+                                    <h4 class="meal-title">Завтрак</h4>
+                                </div>
+                                <div class="meal">
+                                    <h4 class="meal-title">Обед</h4>
+                                </div>
+                                <div class="meal">
+                                    <h4 class="meal-title">Ужин</h4>
+                                </div>
+                                <div class="meal">
+                                    <h4 class="meal-title">Перекусы</h4>
+                                </div>
+                            </div>
+                </div> <br />
+                <a asp-action="DownloadPdf" asp-controller="Home" class="btnDownload">
+                    <span class="material-symbols-outlined">download</span> Скачать
+                </a>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>

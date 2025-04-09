@@ -1,0 +1,126 @@
+﻿.containerResult {
+    background: white;
+    padding: 20px;
+    width: auto;
+}
+
+.headerResult {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+    .headerResult h1 {
+        flex-grow: 1;
+        text-align: center;
+        font-size: 20px;
+        color: #6D765E;
+    }
+
+.btnBack {
+    background-color: #6D765E;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+    .btnBack:hover {
+        background-color: #798a68;
+    }
+
+.resultSecond {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.results {
+    background-color: rgba(152, 166, 128, 0.65);
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.day-results {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+
+.day {
+    background-color: white;
+    border-radius: 0.375rem;
+    padding: 1rem;
+    border: 1px solid #e5e7eb;
+}
+
+.day-title {
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.meals {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.meal {
+    padding: 0.5rem;
+    transition: background-color 0.2s;
+}
+
+    .meal:hover {
+        background-color: #f3f4f6;
+    }
+
+.meal-title {
+    font-size: 0,75rem;
+    font-weight: 500;
+}
+
+.download-button {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.btnDownload {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background-color: #6D765E;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+    .btnDownload:hover {
+        background-color: #798a68;
+    }
+
+.weightAll {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.total {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
