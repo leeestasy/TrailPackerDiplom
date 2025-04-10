@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebTrail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+859c380dbc37596ed678e41268a3d85ad9656d66")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebTrail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebTrail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

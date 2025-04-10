@@ -1,8 +1,23 @@
-﻿namespace WebTrail.Models
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+
+namespace WebTrail.Models
 {
     public class HikeViewModel
     {
-        public Hike Hike { get; set; } = new Hike();
-        public required List<Recipe> Recipes { get; set; }
+        public HikeViewModel()
+        {
+            Hike = new Hike();
+            Recipes = new List<Recipe>();
+            //TourTypes = new List<SelectListItem>();
+        }
+        public Hike Hike { get; set; }
+        public List<Recipe> Recipes { get; set; }
+
+    //    public List<SelectListItem> TourTypes { get; set; }
+    //    public int? SelectedTourTypeID 
+    //{ 
+    //    get => Hike.TourTypeID;
+    //    set => Hike.TourTypeID = value ?? 0;  }
+
     }
 }

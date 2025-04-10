@@ -1,10 +1,9 @@
 ﻿@using WebTrail.Models
 @inject IFoodCalculationService CalculationService
-@model Dictionary<string, object>
+@model WebTrail.Models.FoodCalculationResults
 
 @{
     ViewData["Title"] = "Result First";
-    var results = (FoodCalculationResults)ViewBag.Results;
 }
 
 <title>Результаты расчета продуктов</title>
@@ -23,9 +22,9 @@
             </tr>
         </thead>
         <tbody>
-            @if (results != null && results.Products != null)
+            @if (Model.Products != null && Model.Products.Any())
             {
-                foreach (var product in results.Products)
+                foreach (var product in Model.Products)
                 {
                     <tr>
                         <td>@product.Name</td>
@@ -48,7 +47,7 @@
         </a>
         <div class="total">
             Общий вес продуктов:
-            <b>@(results != null ? results.TotalWeight.ToString("F2") : "0.00") кг</b>
+            <b>@(Model.TotalWeight.ToString("F2") ?? "0.00") кг</b>
         </div>
     </div>
 </div>

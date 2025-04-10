@@ -3,28 +3,55 @@
   "WorkspaceRootPath": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\controllers\\hikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:controllers\\hikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\views\\home\\recipeview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:views\\home\\recipeview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\views\\home\\resultfirst.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:views\\home\\resultfirst.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\views\\home\\resultsecond.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:views\\home\\resultsecond.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\services\\foodcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:services\\foodcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\services\\ifoodcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:services\\ifoodcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\models\\trailpackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:models\\trailpackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_2250EVR_SQLEXPRESS/TrailPacker/True/SqlTable/dbo.Hike.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\views\\home\\recipeview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:views\\home\\recipeview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\models\\hikeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:models\\hikeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\views\\home\\recipes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:views\\home\\recipes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\views\\home\\resultsecond.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:views\\home\\resultsecond.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,36 +66,8 @@
       "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\services\\foodcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:services\\foodcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\models\\foodcalculationresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:models\\foodcalculationresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\services\\ifoodcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:services\\ifoodcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -81,10 +80,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\wwwroot\\css\\styleresultf.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:wwwroot\\css\\styleresultf.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\controllers\\hikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|solutionrelative:controllers\\hikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{566AB3DD-727B-4552-A4BA-6567B198A5BD}|WebTrail.csproj|e:\\4\\\u0434\u0438\u043F\u043B\u043E\u043C\\webtrail\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -106,7 +101,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,189 +109,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ResultSecond.cshtml",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\ResultSecond.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\ResultSecond.cshtml",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\ResultSecond.cshtml",
-              "RelativeToolTip": "Views\\Home\\ResultSecond.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T18:10:56.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ResultFirst.cshtml",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\ResultFirst.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\ResultFirst.cshtml",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\ResultFirst.cshtml",
-              "RelativeToolTip": "Views\\Home\\ResultFirst.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T05:52:36.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RecipeView.cshtml",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\RecipeView.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\RecipeView.cshtml",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\RecipeView.cshtml",
-              "RelativeToolTip": "Views\\Home\\RecipeView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T18:10:42.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Recipes.cshtml",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\Recipes.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Recipes.cshtml",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\Recipes.cshtml",
-              "RelativeToolTip": "Views\\Home\\Recipes.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T00:43:04.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-19T21:43:04.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAADgv4cAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T06:00:39.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T16:41:59.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T20:48:13.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T12:53:01.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T16:15:59.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FoodCalculationService.cs",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Services\\FoodCalculationService.cs",
-              "RelativeDocumentMoniker": "Services\\FoodCalculationService.cs",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Services\\FoodCalculationService.cs",
-              "RelativeToolTip": "Services\\FoodCalculationService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA0wCcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:16:52.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T15:51:40.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FoodCalculationResults.cs",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Models\\FoodCalculationResults.cs",
-              "RelativeDocumentMoniker": "Models\\FoodCalculationResults.cs",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Models\\FoodCalculationResults.cs",
-              "RelativeToolTip": "Models\\FoodCalculationResults.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T20:00:02.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T17:00:12.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "IFoodCalculationService.cs",
               "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Services\\IFoodCalculationService.cs",
               "RelativeDocumentMoniker": "Services\\IFoodCalculationService.cs",
@@ -304,20 +130,185 @@
               "RelativeToolTip": "Services\\IFoodCalculationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T19:52:33.171Z",
+              "WhenOpened": "2025-04-09T19:52:33.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultFirst.cshtml",
+              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\ResultFirst.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ResultFirst.cshtml",
+              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\ResultFirst.cshtml",
+              "RelativeToolTip": "Views\\Home\\ResultFirst.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T05:52:36.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrailPackerDbContext.cs",
+              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Models\\TrailPackerDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\TrailPackerDbContext.cs",
+              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Models\\TrailPackerDbContext.cs",
+              "RelativeToolTip": "Models\\TrailPackerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:07:22.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HikeController.cs",
+              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Controllers\\HikeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HikeController.cs",
+              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Controllers\\HikeController.cs",
+              "RelativeToolTip": "Controllers\\HikeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:37:32.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FoodCalculationService.cs",
+              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Services\\FoodCalculationService.cs",
+              "RelativeDocumentMoniker": "Services\\FoodCalculationService.cs",
+              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Services\\FoodCalculationService.cs",
+              "RelativeToolTip": "Services\\FoodCalculationService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwFoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T01:36:43.92Z"
+              "WhenOpened": "2025-04-10T23:28:20.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T21:43:04.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Hike.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_2250EVR_SQLEXPRESS/TrailPacker/True/SqlTable/dbo.Hike.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_2250EVR_SQLEXPRESS/TrailPacker/True/SqlTable/dbo.Hike.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-10T22:54:30.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HikeViewModel.cs",
+              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Models\\HikeViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\HikeViewModel.cs",
+              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Models\\HikeViewModel.cs",
+              "RelativeToolTip": "Models\\HikeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:06:58.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T17:00:12.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecipeView.cshtml",
+              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\RecipeView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\RecipeView.cshtml",
+              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\RecipeView.cshtml",
+              "RelativeToolTip": "Views\\Home\\RecipeView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T18:10:42.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Recipes.cshtml",
+              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\Recipes.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Recipes.cshtml",
+              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\Recipes.cshtml",
+              "RelativeToolTip": "Views\\Home\\Recipes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T00:43:04.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResultSecond.cshtml",
+              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\ResultSecond.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ResultSecond.cshtml",
+              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Home\\ResultSecond.cshtml",
+              "RelativeToolTip": "Views\\Home\\ResultSecond.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T18:10:56.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T16:41:59.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T20:48:13.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T16:15:59.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:51:40.112Z"
             },
             {
               "$type": "Document",
@@ -345,18 +336,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RecipeController.cs",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Controllers\\RecipeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RecipeController.cs",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Controllers\\RecipeController.cs",
-              "RelativeToolTip": "Controllers\\RecipeController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwCQAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T00:01:13.059Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 19,
               "Title": "styleResultF.css",
               "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\wwwroot\\css\\styleResultF.css",
@@ -370,18 +349,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "HikeController.cs",
-              "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Controllers\\HikeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HikeController.cs",
-              "ToolTip": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\Controllers\\HikeController.cs",
-              "RelativeToolTip": "Controllers\\HikeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T16:37:32.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "site.js",
               "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -393,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "WebTrail",
               "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\WebTrail.csproj",
               "RelativeDocumentMoniker": "WebTrail.csproj",
@@ -404,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "bootstrap-utilities.css",
               "DocumentMoniker": "E:\\4\\\u0414\u0438\u043F\u043B\u043E\u043C\\WebTrail\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",

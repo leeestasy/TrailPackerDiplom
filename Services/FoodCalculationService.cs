@@ -103,9 +103,9 @@ namespace WebTrail.Services
                 }
             }
 
-            totalFood["Соль"] = 50; // грамм (на всю группу)
-            totalFood["Чай"] = 30; // грамм (на всю группу)
-            totalFood["Специи"] = 20; // грамм (на всю группу)
+            //totalFood["Соль"] = 50; // грамм (на всю группу)
+            //totalFood["Чай"] = 30; // грамм (на всю группу)
+            //totalFood["Специи"] = 20; // грамм (на всю группу)
 
             return totalFood;
         }
@@ -150,14 +150,15 @@ namespace WebTrail.Services
             var results = new Dictionary<string, object>();
             results["totalDays"] = hike.Num_Days;
             results["totalPeople"] = hike.Num_People;
-            results["tourType"] = hike.TourTypeID;
+            results["tourType"] = hike.TourTypeID ?? 0;
             results["dietaryRestrictions"] = hike.Dietary_Restrictions ?? "";
 
-            double totalWeight = CalculateTotalWeight(GetBaseRation(GetCaloriesByTypeHike(hike.TourTypeID)));
+            double totalWeight = CalculateTotalWeight(GetBaseRation(GetCaloriesByTypeHike(hike.TourTypeID ?? 0)));
             results["totalWeight"] = totalWeight;
 
             return results;
         }
+
         private List<FoodRationItem> GetBaseRation(double caloriesPerPersonPerDay)
         {
             // Базовая раскладка для определенной калорийности

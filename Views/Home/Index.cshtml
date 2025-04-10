@@ -49,14 +49,9 @@
                 <div class="form-group">
                     <label asp-for="Hike.TourTypeID">Вид похода</label>
 
-                    @if (ViewBag.TripTypes != null)
-                    {
-                        @Html.DropDownListFor(model => model.Hike.TourTypeID, (SelectList)ViewBag.TripTypes, "Выберите тип похода", new { @class = "form-control" })
-                    }
-                    else
-                    {
-                        <p>Нет доступных типов походов.</p>
-                    }
+                    <select asp-for="Hike.TourTypeID" asp-items="ViewBag.TripTypes" class="form-control">
+                        <option value="">Выберите тип похода</option>
+                    </select>
 
                     <span asp-validation-for="Hike.TourTypeID" class="text-danger"></span>
                 </div>
